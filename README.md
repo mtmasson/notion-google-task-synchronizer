@@ -1,0 +1,2 @@
+# notion-google-task-synchronizer
+-
