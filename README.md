@@ -77,3 +77,6 @@ Se você deseja contribuir para este projeto, siga os seguintes passos:
 - Clone o fork em sua máquina local.
 - Faça as alterações necessárias.
 - Envie um pull request.
+
+# Autor
+Esse arquivo foi redigido por Marcelo Masson (marceloteixeiram@hotmail.com), assim como o projeto em questão. 
